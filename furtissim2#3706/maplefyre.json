@@ -1,0 +1,13 @@
+{
+    "name": "maplefyre",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "k b l m v ' c u o y",
+            "t s r n . g d e a i",
+            "q w z h x f p ; , j"
+        ]
+    }
+}

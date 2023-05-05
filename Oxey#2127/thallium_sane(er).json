@@ -1,0 +1,13 @@
+{
+    "name": "thallium_sane(er)",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "f d h v q j p o u ,",
+            "s t n r m g c a e i",
+            "z k b l x w y ' ; ."
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Minimak-12",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "q w d f k y u i l ;  ",
+            "a s t r g h n e o p '",
+            "z x c v b j m , . /  "
+        ]
+    }
+}

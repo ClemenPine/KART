@@ -1,0 +1,13 @@
+{
+    "name": "apt30",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "v g d f b w l u o y",
+            "r s t h k j n e a i",
+            "x c m p q z , . ' /"
+        ]
+    }
+}

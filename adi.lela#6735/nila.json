@@ -1,0 +1,13 @@
+{
+    "name": "nila",
+    "board": "angle",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "x d l c v q f o u ,",
+            "r t n s b y h a e i",
+            "k m g w z j p ' / ."
+        ]
+    }
+}

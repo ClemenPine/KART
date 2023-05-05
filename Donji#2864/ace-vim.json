@@ -1,0 +1,13 @@
+{
+    "name": "ace-vim",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "j l h k g q p u o ,  ",
+            "s r n t m y c e a i '",
+            "z x b d v w f / ; .  "
+        ]
+    }
+}

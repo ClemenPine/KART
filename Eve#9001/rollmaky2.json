@@ -1,0 +1,13 @@
+{
+    "name": "rollmaky2",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "q w f p b z l o u ;  ",
+            "c r s t g m n e i a '",
+            "y x v d k j h / , .  "
+        ]
+    }
+}

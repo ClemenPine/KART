@@ -1,0 +1,14 @@
+{
+    "name": "trashy",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "v l c p k b f o u  ",
+            "t r s h y m n a i e",
+            "j x g d q z w , .  ",
+            "'                  "
+        ]
+    }
+}

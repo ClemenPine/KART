@@ -1,0 +1,13 @@
+{
+    "name": "noctum",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "b c d m z j f o u ,",
+            "n s t r v y h a e i",
+            "q w g l x k p ' ; ."
+        ]
+    }
+}

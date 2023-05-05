@@ -1,0 +1,13 @@
+{
+    "name": "crippling_depression",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "y f o u j k d c l p",
+            "i h e a , m t s r n",
+            "q x ' . ; b v g w z"
+        ]
+    }
+}

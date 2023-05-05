@@ -1,0 +1,13 @@
+{
+    "name": "crstm2",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "p w f m b j l u o y",
+            "c r s t k x n e a i",
+            "' v g d q z h / , ."
+        ]
+    }
+}

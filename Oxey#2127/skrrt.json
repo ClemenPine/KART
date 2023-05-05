@@ -1,0 +1,13 @@
+{
+    "name": "skrrt",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "v y l d g q f o u j",
+            "s c r t k b n a e i",
+            "x w ' m z p h . ; ,"
+        ]
+    }
+}

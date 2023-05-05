@@ -1,0 +1,13 @@
+{
+    "name": "Vitrimak",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "t k v u m i a j b r",
+            "w x / f p d g q , s",
+            "h . ' c o l n z y e"
+        ]
+    }
+}

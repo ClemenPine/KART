@@ -1,0 +1,14 @@
+{
+    "name": "dnb",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "q p d g w z m o u ,",
+            "r n t c y j h a e i",
+            "x b k v     l ' ; .",
+            "f s                "
+        ]
+    }
+}

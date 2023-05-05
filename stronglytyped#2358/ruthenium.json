@@ -1,0 +1,13 @@
+{
+    "name": "ruthenium",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "w d l f x q b u o y",
+            "r t h s g . n e a i",
+            "j k m c v z p ' , ;"
+        ]
+    }
+}

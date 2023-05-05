@@ -1,0 +1,13 @@
+{
+    "name": "apty",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "j g d l q z y o u '",
+            "r s t h k p n e i a",
+            "x c b m v w f , . /"
+        ]
+    }
+}

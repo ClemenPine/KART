@@ -1,0 +1,13 @@
+{
+    "name": "Radish",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "v c w f q z p u o y / =",
+            "r d s h l k t e a i -  ",
+            "x j m n ; b g ' , .    "
+        ]
+    }
+}

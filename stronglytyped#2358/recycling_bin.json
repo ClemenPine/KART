@@ -1,0 +1,13 @@
+{
+    "name": "recycling_bin",
+    "board": "angle",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "j u o q ; v d c l k",
+            "i e a n ' m h s r t",
+            ". , p y x b f g w z"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "helium",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "p l d c g v u o y q",
+            "n r t s b f h e i a",
+            "j x m w z k . ' ; ,"
+        ]
+    }
+}

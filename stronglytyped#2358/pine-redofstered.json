@@ -1,0 +1,13 @@
+{
+    "name": "pine-redofstered",
+    "board": "angle",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "y l r m k q f o u ,",
+            "c s n t w b h a e i",
+            "x z g v j p d ' / ."
+        ]
+    }
+}

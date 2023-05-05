@@ -1,0 +1,13 @@
+{
+    "name": "colemak-kx",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "q w f p b j l u y '",
+            "a r s t g m n e i o",
+            "z v c d k x h , . /"
+        ]
+    }
+}

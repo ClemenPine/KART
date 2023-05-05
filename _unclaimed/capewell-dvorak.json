@@ -1,0 +1,13 @@
+{
+    "name": "Capewell-Dvorak",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "' , . p y q f g r k",
+            "o a e i u d h t n s",
+            "z x c v j l m w b ;"
+        ]
+    }
+}

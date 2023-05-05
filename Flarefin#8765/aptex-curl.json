@@ -1,0 +1,14 @@
+{
+    "name": "APTex-curl",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "/ w m v q z y o u ;",
+            "r s t h b p n a i l",
+            "x c g d k j f ' , .",
+            "e                  "
+        ]
+    }
+}

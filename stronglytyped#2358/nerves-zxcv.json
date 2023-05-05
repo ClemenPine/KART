@@ -1,0 +1,13 @@
+{
+    "name": "nerves-zxcv",
+    "board": "angle",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "b l d m w ' f o u j ; =",
+            "n r t s g y h a e i ,  ",
+            "z x c v q p k . - /    "
+        ]
+    }
+}

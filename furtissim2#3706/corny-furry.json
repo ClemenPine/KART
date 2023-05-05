@@ -1,0 +1,14 @@
+{
+    "name": "corny-furry",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "y o u l q b p m f ;",
+            "i a e n x c d t s r",
+            ", . ' v / z g k w j",
+            "h                  "
+        ]
+    }
+}

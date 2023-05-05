@@ -1,0 +1,13 @@
+{
+    "name": "woagium",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "c d l h b p y o u ,",
+            "s t r n m g w a e i",
+            "j k x v z q f ' ; ."
+        ]
+    }
+}

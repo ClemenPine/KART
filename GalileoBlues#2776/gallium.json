@@ -1,0 +1,13 @@
+{
+    "name": "gallium",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "b l d c v z y o u ,",
+            "n r t s g f h a e i",
+            "q x m w j k p ' ; ."
+        ]
+    }
+}

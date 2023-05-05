@@ -1,0 +1,14 @@
+{
+    "name": "aptex2",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "/ w g d b q y o u ;",
+            "r s t h k j n a i l",
+            "x c m p v z f ' , .",
+            "e                  "
+        ]
+    }
+}

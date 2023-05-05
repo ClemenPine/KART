@@ -1,0 +1,14 @@
+{
+    "name": "nickel_woag",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "f m p c v q l o u ;",
+            "s t n d y x h a i e",
+            "  k b g w z j . , '",
+            "r                  "
+        ]
+    }
+}

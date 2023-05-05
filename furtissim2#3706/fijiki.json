@@ -1,0 +1,14 @@
+{
+    "name": "fijiki",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "x b w d g q l u o y",
+            "r n s t j . h e a i",
+            "z p f m v k , / ' !",
+            "c                  "
+        ]
+    }
+}

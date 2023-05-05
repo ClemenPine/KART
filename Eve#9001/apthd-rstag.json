@@ -1,0 +1,13 @@
+{
+    "name": "apthd-rstag",
+    "board": "angle",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "x c y d b z l o u '",
+            "r s t h k j n e i a",
+            "v g f p q w m , . /"
+        ]
+    }
+}

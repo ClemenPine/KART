@@ -1,0 +1,13 @@
+{
+    "name": "lela",
+    "board": "angle",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "y l w k j z f o u .",
+            "c r s t v b n a e i",
+            "x m g d q p h ' / ,"
+        ]
+    }
+}

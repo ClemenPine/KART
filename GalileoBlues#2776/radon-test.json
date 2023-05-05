@@ -1,0 +1,13 @@
+{
+    "name": "radon-test",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "f h l g k q y o u '",
+            "s n r t b c d a i e",
+            "z m x p v j w , . ;"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "colemak-dhgm",
+    "board": "angle",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "q w c p b z l u y '",
+            "a r s t k j n e i o",
+            "v f d g x m h , . /"
+        ]
+    }
+}

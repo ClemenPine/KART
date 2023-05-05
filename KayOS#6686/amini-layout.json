@@ -1,0 +1,13 @@
+{
+    "name": "amini-layout",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "y o x c l i b f u d /",
+            "; p ' , s m g n j e  ",
+            "a h q t r k z w v .  "
+        ]
+    }
+}

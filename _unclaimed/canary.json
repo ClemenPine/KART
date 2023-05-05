@@ -1,0 +1,13 @@
+{
+    "name": "Canary",
+    "board": "angle",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "w l y p k z x o u ;  ",
+            "c r s t b f n e i a '",
+            "j v d g q m h / , .  "
+        ]
+    }
+}

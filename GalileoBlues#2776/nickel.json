@@ -1,0 +1,14 @@
+{
+    "name": "nickel",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "f m w c v q l o u y",
+            "s t r d p z h a e i",
+            "  k x g b j ' , ; .",
+            "n                  "
+        ]
+    }
+}

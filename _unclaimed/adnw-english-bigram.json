@@ -1,0 +1,13 @@
+{
+    "name": "ADNW-English-Bigram",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "q y u . ? z m l d b p",
+            "s i e a o h n r t c g",
+            "j ) ' , ( f x w k v  "
+        ]
+    }
+}

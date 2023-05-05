@@ -1,0 +1,14 @@
+{
+    "name": "dvorak-e",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "' , u p k q g c l j  ",
+            "a o i h y d t s r n -",
+            "; . / f x b m w v z  ",
+            "e                    "
+        ]
+    }
+}

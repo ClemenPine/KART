@@ -1,0 +1,13 @@
+{
+    "name": "trendy",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "k l h w z j f o u ,",
+            "t r n d c y s a e i",
+            "q x m p b g v . ' ;"
+        ]
+    }
+}

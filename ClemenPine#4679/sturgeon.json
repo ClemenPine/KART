@@ -1,0 +1,13 @@
+{
+    "name": "sturgeon",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "v m l y p q f o u .",
+            "s t r d g b n a e i",
+            "z k j c w x h ' ; ,"
+        ]
+    }
+}

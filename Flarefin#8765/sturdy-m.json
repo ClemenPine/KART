@@ -1,0 +1,13 @@
+{
+    "name": "sturdy-m",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "j u o f x p c l m v",
+            "i e a n . y d r t s",
+            ", ; ' h b w g q k z"
+        ]
+    }
+}

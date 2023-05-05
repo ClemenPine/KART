@@ -1,0 +1,13 @@
+{
+    "name": "nrst-test",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "x l m g w k p a u j '",
+            "n r t s y f h o e i  ",
+            "/ q v c z b d . ; ,  "
+        ]
+    }
+}

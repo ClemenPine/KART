@@ -1,0 +1,13 @@
+{
+    "name": "vimtastic",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "v m n c p q . u o ,",
+            "s t h d y j r e a i",
+            "x k b g f z l w ' /"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "thallium_rlv",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "f d h p v q l o u ,",
+            "s t n c y m r a e i",
+            "j k b g w z x ' ; ."
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "apt26",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "w f g d b j l u o y",
+            "r s t h k x n e a i",
+            "  c m p     v , .  ",
+            "'                  "
+        ]
+    }
+}

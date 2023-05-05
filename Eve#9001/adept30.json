@@ -1,0 +1,13 @@
+{
+    "name": "adept30",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "j w m p q z y o u '",
+            "r s n t g v h e i a",
+            "x c l d b k f , . /"
+        ]
+    }
+}

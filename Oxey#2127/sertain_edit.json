@@ -1,0 +1,13 @@
+{
+    "name": "sertain_edit",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "v l d k q j f o u ,",
+            "s r t n b y c a e i",
+            "z x m h p g w ' ; ."
+        ]
+    }
+}

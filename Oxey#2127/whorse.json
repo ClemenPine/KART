@@ -1,0 +1,13 @@
+{
+    "name": "whorse",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "v p h m q j f o u ,",
+            "s n r t k y c a e i",
+            "x b l d z w g ' ; ."
+        ]
+    }
+}

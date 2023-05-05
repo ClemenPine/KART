@@ -1,0 +1,13 @@
+{
+    "name": "colemak-pine",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "q l c g k j f u y /",
+            "a r s t d b n e i o",
+            "z x w m v p h ' , ."
+        ]
+    }
+}

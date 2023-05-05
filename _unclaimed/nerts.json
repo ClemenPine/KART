@@ -1,0 +1,13 @@
+{
+    "name": "Nerts",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "p l d v x z k o u ;  ",
+            "n r t s g y h e i a /",
+            "q j m c w b f ' , .  "
+        ]
+    }
+}

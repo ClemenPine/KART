@@ -1,0 +1,14 @@
+{
+    "name": "colemek",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "q w f p b j l u y '",
+            "a r s t g m n h i o",
+            "z x c d v k , . / ;",
+            "e                  "
+        ]
+    }
+}

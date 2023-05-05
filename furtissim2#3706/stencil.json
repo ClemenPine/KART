@@ -1,0 +1,13 @@
+{
+    "name": "stencil",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "f d h g w q l u o y",
+            "s t n c b j r e a i",
+            "z k m p v x ; ' , ."
+        ]
+    }
+}

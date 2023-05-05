@@ -1,0 +1,13 @@
+{
+    "name": "crst-apsu",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "w l f p b j m u o y",
+            "c r s t k x n e a i",
+            "' v g d q z h / , ."
+        ]
+    }
+}

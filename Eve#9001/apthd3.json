@@ -1,0 +1,14 @@
+{
+    "name": "apthd3",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "q c y p b j l u o ;",
+            "r s t h d m n e a i",
+            "z f g k v x w , . /",
+            "'                  "
+        ]
+    }
+}

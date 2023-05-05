@@ -1,0 +1,13 @@
+{
+    "name": "dofauq",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            ". a u q m v g p h x  ",
+            "i o e t d y s n l r '",
+            ", / ; w k f c b j z  "
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "dvimcat",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "w p d g f , . u o y",
+            "r n t s b j h e a i",
+            "x v m c z k l ' ; q"
+        ]
+    }
+}

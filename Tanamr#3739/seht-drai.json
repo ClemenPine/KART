@@ -1,0 +1,13 @@
+{
+    "name": "seht-drai",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "f u l v b ; g n o j",
+            "s e h t k q d r a i",
+            "z ' m p w y c x . ,"
+        ]
+    }
+}

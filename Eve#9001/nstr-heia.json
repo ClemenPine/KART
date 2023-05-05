@@ -1,0 +1,13 @@
+{
+    "name": "nstr-heia",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "b g d l q z y o u '",
+            "n s t r k j h e i a",
+            "p c m w v x f , . /"
+        ]
+    }
+}

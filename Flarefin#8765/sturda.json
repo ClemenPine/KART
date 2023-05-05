@@ -1,0 +1,14 @@
+{
+    "name": "sturda",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "v m l c p z x u , '",
+            "s t r d y f n e i o",
+            "q k j w g b h ; . /",
+            "a                  "
+        ]
+    }
+}

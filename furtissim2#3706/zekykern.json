@@ -1,0 +1,13 @@
+{
+    "name": "zekykern",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "z m c p g q l u o y  ",
+            "r n s t b j h e a i '",
+            "x f w d ; k v / . ,  "
+        ]
+    }
+}

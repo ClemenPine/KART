@@ -1,0 +1,13 @@
+{
+    "name": "Calemog",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "x l c w k z f u y ;",
+            "o r s t m b n e i a",
+            "q j v d g p h ' , ."
+        ]
+    }
+}

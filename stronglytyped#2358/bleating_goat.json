@@ -1,0 +1,13 @@
+{
+    "name": "bleating_goat",
+    "board": "angle",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "j u o q ; k d c l w",
+            "i e a n ' m h s t r",
+            ". , p y x b f g v z"
+        ]
+    }
+}

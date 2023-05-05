@@ -1,0 +1,13 @@
+{
+    "name": "solikeuhh",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "x c y d b z l o u '",
+            "r s t h k j n e i a",
+            "q v g f p w m , . /"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "scythe",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "v c d j x q w o u ,",
+            "s y t r l f n a e i",
+            "z g k h m b p ' ; ."
+        ]
+    }
+}

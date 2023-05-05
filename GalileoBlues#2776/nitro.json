@@ -1,0 +1,13 @@
+{
+    "name": "Nitro",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "p m l c v x f o u .",
+            "n t r s y b h a e i",
+            "q z j g w k d ' ; ,"
+        ]
+    }
+}

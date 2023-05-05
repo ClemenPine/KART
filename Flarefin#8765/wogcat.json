@@ -1,0 +1,13 @@
+{
+    "name": "wogcat",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "x i e ' . z v l y b",
+            "w o g c a t d r s n",
+            "u ; j , q m k h f p"
+        ]
+    }
+}

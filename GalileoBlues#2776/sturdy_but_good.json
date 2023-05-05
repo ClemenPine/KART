@@ -1,0 +1,13 @@
+{
+    "name": "sturdy_but_good",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "v m l f q j c o u .",
+            "s t r n p y d a e i",
+            "z k x h b w g ' ; ,"
+        ]
+    }
+}

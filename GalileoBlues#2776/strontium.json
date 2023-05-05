@@ -1,0 +1,13 @@
+{
+    "name": "strontium",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "w l d v j z k o u ,",
+            "s r t n m y c a e i",
+            "q x g h b p f ' ; ."
+        ]
+    }
+}

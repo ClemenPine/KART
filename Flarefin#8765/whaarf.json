@@ -1,0 +1,14 @@
+{
+    "name": "whaarf",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "f l h k z ' w u q /",
+            "s r n t m y c e i o",
+            "x j b d v p g ; , .",
+            "a                  "
+        ]
+    }
+}

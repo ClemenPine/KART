@@ -1,0 +1,13 @@
+{
+    "name": "Colemap",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "q w f g b j l u y ;  ",
+            "a r s t d h n e i o '",
+            "z x c p v k m , . /  "
+        ]
+    }
+}

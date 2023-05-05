@@ -1,0 +1,13 @@
+{
+    "name": "Colemak-Qiou",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "q l c m k j f o y '",
+            "a r s t g p n e i u",
+            "z x w d v b h , . /"
+        ]
+    }
+}

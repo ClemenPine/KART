@@ -1,0 +1,13 @@
+{
+    "name": "Klausler",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "k , u y p w l m f c",
+            "o a e i d r n t h s",
+            "q . ' ; z x v g b j"
+        ]
+    }
+}

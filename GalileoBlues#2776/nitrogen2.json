@@ -1,0 +1,13 @@
+{
+    "name": "nitrogen2",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "m d l c w f p o u ,",
+            "n t r s g y h a e i",
+            "z j x b v k q ' ; ."
+        ]
+    }
+}

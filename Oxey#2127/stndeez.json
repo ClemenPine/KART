@@ -1,0 +1,14 @@
+{
+    "name": "stndeez",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "v m h c p z l o u .",
+            "s t n d y q r a e i",
+            "j - b g f x / ' ; ,",
+            "k w                "
+        ]
+    }
+}

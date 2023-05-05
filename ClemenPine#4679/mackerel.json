@@ -1,0 +1,13 @@
+{
+    "name": "mackerel",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "q l c g k j f u x '",
+            "a r s t d y n e o i",
+            "z v w m b p h / , ."
+        ]
+    }
+}

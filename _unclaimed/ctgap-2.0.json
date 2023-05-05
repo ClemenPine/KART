@@ -1,0 +1,13 @@
+{
+    "name": "CTGAP-2.0",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "w c l d k j y o u /",
+            "r s t h m p n e i a",
+            "q v g f b z x ' , ."
+        ]
+    }
+}

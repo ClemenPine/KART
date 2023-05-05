@@ -1,0 +1,13 @@
+{
+    "name": "natasha",
+    "board": "ortho",
+    "source": "",
+    "authors": [],
+    "layers": {
+        "main": [
+            "p m c f k j ' u o y  ",
+            "n t s h b w r e a i /",
+            "q v g d x z l , . ;  "
+        ]
+    }
+}
